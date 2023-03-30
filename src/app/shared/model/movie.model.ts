@@ -1,5 +1,5 @@
-export interface GameOffer {
-  id: number;
+export interface IMovie {
+  id: string;
   title: string;
   worth: string;
   thumbnail: string;
